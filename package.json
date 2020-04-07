@@ -1,0 +1,26 @@
+{
+  "name": "node-cronjob-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teera04164/node-cronjob-notify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teera04164/node-cronjob-notify/issues"
+  },
+  "homepage": "https://github.com/teera04164/node-cronjob-notify#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-cron": "^2.0.3",
+    "querystring": "^0.2.0"
+  }
+}
